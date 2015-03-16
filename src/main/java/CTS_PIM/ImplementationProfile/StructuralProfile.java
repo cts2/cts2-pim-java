@@ -1,0 +1,18 @@
+package CTS_PIM.ImplementationProfile;
+
+/**
+ *
+ */
+public enum StructuralProfile {
+    SP_CODE_SYSTEM,
+    SP_CODE_SYSTEM_VERSION,
+    SP_ENTITY_DESCRIPTION,
+    SP_ASSOCIATION,
+    SP_VALUE_SET,
+    SP_VALUE_SET_DEFINITION,
+    SP_VALUE_SET_RESOLUTION,
+    SP_CONCEPT_DOMAIN,
+    SP_CONCEPT_DOMAIN_BINDING,
+    SP_MAP,
+    SP_MAP_VERSION
+}
